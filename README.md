@@ -20,7 +20,7 @@ La aplicación consta de un backend desarrollado en node con express y PostgreSQ
 ### FrontEnd               
 1. Instalar NodeJs para su sistema operativo (https://nodejs.org/en/download/current)
 2. Descargar el código fuente desde git (se sugiere utilizar un git clone) 
-3. Entrar a la carpeta tcit-post (o a la carpeta tcit-app)
+3. Entrar a la carpeta tcit-post-app
 4. Descargar las dependecias mediante un npm install
 5. Ejecutar utilizando npm run start
 
