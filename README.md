@@ -2,7 +2,7 @@
 # tcit-challenge
 Challenge TCIT
 
-El presente desarrollo corresponde a un desafío de generación de de una aplicación como parte de la postulación a TCIT. Cabe destacar que el front end tiene versiones ya que se presentaron problemas con Redux (tcit-post) realizando un segundo intento sin dicho componente (tcit-app)
+El presente desarrollo corresponde a un desafío de generación de de una aplicación como parte de la postulación a TCIT. 
 
 ## ¿Cómo levantar el ambiente de desarrollo?
 
