@@ -1,0 +1,16 @@
+@api = http://localhost:4000/api/post
+
+### get posts
+GET {{api}}
+
+### create post
+POST {{api}}
+Content-Type: application/json
+
+{
+  "nombre": "Post 01",
+  "descripcion": "Descripcion Post 01"
+}
+
+### delete post
+DELETE {{api}}/10
