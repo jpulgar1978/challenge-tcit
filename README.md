@@ -1,6 +1,5 @@
 
-# tcit-challenge
-Challenge TCIT
+# Challenge TCIT
 
 El presente desarrollo corresponde a un desafío de generación de de una aplicación como parte de la postulación a TCIT. 
 
